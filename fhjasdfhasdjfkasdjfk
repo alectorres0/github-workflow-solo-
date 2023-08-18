@@ -1,0 +1,11 @@
+[33mcommit a022e3033379fbee4669d4afcaf0c00b9e4bab58[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-B[m[33m, [m[1;31morigin/feature-A[m[33m, [m[1;32mfeature-A[m[33m)[m
+Author: Alec <alec@DESKTOP-0PTJ7TE>
+Date:   Thu Aug 17 21:33:01 2023 -0700
+
+    add feature A
+
+[33mcommit a49009cf90ad40dab216e890a1b4af013283ca96[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: alectorres0 <141981926+alectorres0@users.noreply.github.com>
+Date:   Thu Aug 17 21:20:08 2023 -0700
+
+    Initial commit
